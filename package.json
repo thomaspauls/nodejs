@@ -1,6 +1,7 @@
 {
   "name": "nodejs",
-  "version": "1.0.2",
+  "version": "1.0.0",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +16,5 @@
   "bugs": {
     "url": "https://github.com/thomaspauls/nodejs/issues"
   },
-  "homepage": "https://github.com/thomaspauls/nodejs#readme",
-  "description": ""
+  "homepage": "https://github.com/thomaspauls/nodejs#readme"
 }
