@@ -1,12 +1,20 @@
 {
-  "name": "testapplication",
-  "version": "1.0.0",
-  "description": "testing",
+  "name": "nodejs",
+  "version": "1.0.2",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node app.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thomaspauls/nodejs.git"
+  },
+  "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thomaspauls/nodejs/issues"
+  },
+  "homepage": "https://github.com/thomaspauls/nodejs#readme",
+  "description": ""
 }
